@@ -1,0 +1,44 @@
+2025-06-15 17:58:15,072 [INFO] CSV uploaded and previewed.
+2025-06-15 17:58:31,232 [INFO] CSV uploaded and previewed.
+2025-06-15 17:58:46,428 [INFO] CSV uploaded and previewed.
+2025-06-15 17:59:07,382 [INFO] CSV uploaded and previewed.
+2025-06-15 17:59:12,350 [INFO] CSV uploaded and previewed.
+2025-06-15 17:59:15,286 [INFO] CSV uploaded and previewed.
+2025-06-15 17:59:21,607 [INFO] CSV uploaded and previewed.
+2025-06-15 17:59:21,677 [INFO] CSV uploaded and previewed.
+2025-06-15 17:59:21,712 [INFO] Connected to SQL Server.
+2025-06-15 17:59:21,717 [ERROR] Upload failed: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot find the object "toCatCodes" because it does not exist or you do not have permissions. (1088) (SQLExecDirectW)')
+2025-06-15 17:59:21,717 [INFO] SQL connection closed.
+2025-06-15 17:59:29,979 [INFO] CSV uploaded and previewed.
+2025-06-15 17:59:31,735 [INFO] CSV uploaded and previewed.
+2025-06-15 17:59:31,740 [INFO] Connected to SQL Server.
+2025-06-15 17:59:31,749 [ERROR] Upload failed: ('22003', '[22003] [Microsoft][ODBC Driver 17 for SQL Server]Numeric value out of range (0) (SQLExecute)')
+2025-06-15 17:59:31,750 [INFO] SQL connection closed.
+2025-06-15 18:02:33,630 [INFO] CSV uploaded and previewed.
+2025-06-15 18:02:45,247 [INFO] CSV uploaded and previewed.
+2025-06-15 18:02:49,964 [INFO] CSV uploaded and previewed.
+2025-06-15 18:02:53,707 [INFO] CSV uploaded and previewed.
+2025-06-15 18:03:02,660 [INFO] CSV uploaded and previewed.
+2025-06-15 18:03:02,844 [INFO] CSV uploaded and previewed.
+2025-06-15 18:03:17,047 [INFO] CSV uploaded and previewed.
+2025-06-15 18:03:18,797 [INFO] CSV uploaded and previewed.
+2025-06-15 18:03:18,802 [INFO] Connected to SQL Server.
+2025-06-15 18:03:18,809 [ERROR] Upload failed: ('22003', '[22003] [Microsoft][ODBC Driver 17 for SQL Server]Numeric value out of range (0) (SQLExecute)')
+2025-06-15 18:03:18,810 [INFO] SQL connection closed.
+2025-06-15 18:09:43,039 [INFO] CSV uploaded and previewed.
+2025-06-15 18:09:58,087 [INFO] CSV uploaded and previewed.
+2025-06-15 18:10:01,680 [INFO] CSV uploaded and previewed.
+2025-06-15 18:10:04,156 [INFO] CSV uploaded and previewed.
+2025-06-15 18:10:09,166 [INFO] CSV uploaded and previewed.
+2025-06-15 18:10:20,081 [INFO] CSV uploaded and previewed.
+2025-06-15 18:10:20,193 [INFO] CSV uploaded and previewed.
+2025-06-15 18:10:20,224 [INFO] Connected to SQL Server.
+2025-06-15 18:10:20,234 [INFO] Creating table dbo.toCatCodes with columns: ['[CatCodeID] INT IDENTITY(1,1) PRIMARY KEY', '[DepartmentID] NVARCHAR(MAX) NULL', '[Code] NVARCHAR(MAX) NULL', '[Description] NVARCHAR(MAX) NULL']
+2025-06-15 18:10:20,236 [ERROR] Upload failed: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]CREATE TABLE permission denied in database 'THB_Live'. (262) (SQLExecDirectW)")
+2025-06-15 18:10:20,237 [INFO] SQL connection closed.
+2025-06-15 18:10:24,054 [INFO] CSV uploaded and previewed.
+2025-06-15 18:10:25,199 [INFO] CSV uploaded and previewed.
+2025-06-15 18:10:25,202 [INFO] Connected to SQL Server.
+2025-06-15 18:10:25,203 [INFO] Creating table dbo.toCatCodes with columns: ['[CatCodeID] INT IDENTITY(1,1) PRIMARY KEY', '[DepartmentID] NVARCHAR(MAX) NULL', '[Code] NVARCHAR(MAX) NULL', '[Description] NVARCHAR(MAX) NULL']
+2025-06-15 18:10:25,205 [ERROR] Upload failed: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]CREATE TABLE permission denied in database 'THB_Live'. (262) (SQLExecDirectW)")
+2025-06-15 18:10:25,205 [INFO] SQL connection closed.
